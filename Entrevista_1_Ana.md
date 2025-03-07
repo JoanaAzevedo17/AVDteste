@@ -1,3 +1,5 @@
+# Transcrição Entrevista da Ana
+
 Date: 03/06/2025
 
 Title: Entrevista-1-Ana
@@ -5,6 +7,8 @@ Title: Entrevista-1-Ana
 00:00:00 
 
 Speaker 1: Qual é a memória mais antiga de que te recordas? 
+
+00:00:04
 
 Speaker 2: A memória mais antiga que me recordo... Quando 
 eu tinha três anos, estava no infantário e com medo da freira fugi para a sala ao lado onde estava 
